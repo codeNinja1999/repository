@@ -45,7 +45,7 @@ dependencies:
   #Module
 
   network:
-    path: network
+    path: ../network
 
   # package_name:
   #   git:
